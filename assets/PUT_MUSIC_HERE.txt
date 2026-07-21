@@ -1,0 +1,2 @@
+Put your background music file here, named exactly: music.mp3
+(No copyrighted audio is included in this project — supply your own royalty-free or personally-owned track.)

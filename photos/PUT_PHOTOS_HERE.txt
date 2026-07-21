@@ -1,0 +1,3 @@
+Put your photos here, named: photo1.jpg, photo2.jpg, photo3.jpg, ...
+Supported formats: .jpg .jpeg .png .webp
+The slideshow finds them automatically — no code changes needed.
